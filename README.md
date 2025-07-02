@@ -7,6 +7,17 @@
 
 Understanding how search engines work is crucial for developers, data scientists, and anyone working with text data. SearchCraft provides a hands-on, transparent implementation that you can study, modify, and extend to learn core concepts like TF-IDF scoring, inverted indexing, and phrase matching.
 
+**What makes SearchCraft special:**
+* ✅ Term frequency with normalization
+* ✅ Text preprocessing (punctuation removal, case normalization)
+* ✅ Stop word filtering
+* ✅ Document length tracking
+* ✅ Term document frequency calculation
+* ✅ Full TF-IDF scoring
+* ✅ Multi-term query support
+* ✅ Exact phrase search with position matching
+* ✅ Relevance-based ranking
+
 ## ⚡ Key Features
 
 ### ✅ **Inverted Index Construction**
